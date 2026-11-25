@@ -1,3 +1,4 @@
+# Trigger build
 name: Build Geode Mod
 
 permissions:
